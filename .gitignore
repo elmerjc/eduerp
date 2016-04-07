@@ -1,0 +1,4 @@
+#Eclipse config file
+*.pyc
+.project
+.pydevproject
