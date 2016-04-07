@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <menuitem id="menu_op_placement_offer" name="Placement Offers"
+            parent="eduerp_core.menu_op_general_main" sequence="20"
+            action="act_open_op_placement_offer_view" groups="eduerp_core.group_op_back_office,eduerp_core.group_op_back_office_admin" />
+    </data>
+</openerp>

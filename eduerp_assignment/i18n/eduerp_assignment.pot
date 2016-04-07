@@ -1,0 +1,391 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* eduerp_assignment
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-29 10:04+0000\n"
+"PO-Revision-Date: 2015-09-29 10:04+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Accept"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment.sub.line,state:0
+msgid "Accepted"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,allocation_ids:0
+msgid "Allocated To"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Allocation"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Allocation Infomation"
+msgstr ""
+
+#. module: eduerp_assignment
+#: model:ir.actions.act_window,name:eduerp_assignment.act_op_student_assignment
+#: model:ir.model,name:eduerp_assignment.model_op_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: view:op.assignment:eduerp_assignment.view_op_assignment_tree
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,assignment_id:0
+#: view:op.student:eduerp_assignment.view_op_student_form_assignment_inherit
+msgid "Assignment"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:board.board:eduerp_assignment.assignment_faculty_dashboard_form_view
+msgid "Assignment Approved"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Assignment Name"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_tree
+msgid "Assignment Sub Line"
+msgstr ""
+
+#. module: eduerp_assignment
+#: model:ir.model,name:eduerp_assignment.model_op_assignment_sub_line
+msgid "Assignment Submission"
+msgstr ""
+
+#. module: eduerp_assignment
+#: model:ir.actions.act_window,name:eduerp_assignment.act_open_op_assignment_sub_line_view
+#: model:ir.ui.menu,name:eduerp_assignment.menu_op_assignment_sub_line_sub
+msgid "Assignment Submissions"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:board.board:eduerp_assignment.assignment_student_dashboard_form_view
+msgid "Assignment To Submit"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,assignment_type_id:0
+msgid "Assignment Type"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.student,allocation_ids:0
+msgid "Assignment(s)"
+msgstr ""
+
+#. module: eduerp_assignment
+#: model:ir.actions.act_window,name:eduerp_assignment.act_open_op_assignment_view
+#: model:ir.ui.menu,name:eduerp_assignment.menu_op_assignment_faculty
+#: view:op.student:eduerp_assignment.view_op_student_form_assignment_inherit
+msgid "Assignments"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Basic Information"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,batch_id:0
+msgid "Batch"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Change And Resubmit"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment.sub.line,state:0
+msgid "Change Req."
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Change Require"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment.type,code:0
+msgid "Code"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,course_id:0
+msgid "Course"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,create_uid:0
+#: field:op.assignment.sub.line,create_uid:0
+#: field:op.assignment.type,create_uid:0
+msgid "Created by"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,create_date:0
+#: field:op.assignment.sub.line,create_date:0
+#: field:op.assignment.type,create_date:0
+msgid "Created on"
+msgstr ""
+
+#. module: eduerp_assignment
+#: help:op.assignment,message_last_post:0
+#: help:op.assignment.sub.line,message_last_post:0
+msgid "Date of the last message posted on the record."
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,description:0
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,description:0
+msgid "Description"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment,state:0
+#: selection:op.assignment.sub.line,state:0
+msgid "Draft"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,faculty_id:0
+msgid "Faculty"
+msgstr ""
+
+#. module: eduerp_assignment
+#: model:ir.actions.act_window,name:eduerp_assignment.act_op_faculty_assignment
+msgid "Faculty Assignment"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Finish"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment,state:0
+msgid "Finished"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_follower_ids:0
+#: field:op.assignment.sub.line,message_follower_ids:0
+msgid "Followers"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+msgid "Group By..."
+msgstr ""
+
+#. module: eduerp_assignment
+#: help:op.assignment,message_summary:0
+#: help:op.assignment.sub.line,message_summary:0
+msgid "Holds the Chatter summary (number of messages, ...). This summary is directly in html format in order to be inserted in kanban views."
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,id:0
+#: field:op.assignment.sub.line,id:0
+#: field:op.assignment.type,id:0
+msgid "ID"
+msgstr ""
+
+#. module: eduerp_assignment
+#: help:op.assignment,message_unread:0
+#: help:op.assignment.sub.line,message_unread:0
+msgid "If checked new messages require your attention."
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_is_follower:0
+#: field:op.assignment.sub.line,message_is_follower:0
+msgid "Is a Follower"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,issued_date:0
+msgid "Issued Date"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_last_post:0
+#: field:op.assignment.sub.line,message_last_post:0
+msgid "Last Message Date"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,write_uid:0
+#: field:op.assignment.sub.line,write_uid:0
+#: field:op.assignment.type,write_uid:0
+msgid "Last Updated by"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,write_date:0
+#: field:op.assignment.sub.line,write_date:0
+#: field:op.assignment.type,write_date:0
+msgid "Last Updated on"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,marks:0
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+msgid "Marks"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_ids:0
+#: field:op.assignment.sub.line,message_ids:0
+msgid "Messages"
+msgstr ""
+
+#. module: eduerp_assignment
+#: help:op.assignment,message_ids:0
+#: help:op.assignment.sub.line,message_ids:0
+msgid "Messages and communication history"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,name:0
+#: field:op.assignment.type,name:0
+msgid "Name"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,note:0
+msgid "Note"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+msgid "Publish"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment,state:0
+msgid "Published"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Reject"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment.sub.line,state:0
+msgid "Rejected"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Resubmit"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,reviewer:0
+msgid "Reviewer"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,state:0
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,state:0
+msgid "State"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,student_id:0
+msgid "Student"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,subject_id:0
+msgid "Subject"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_search
+#: field:op.assignment,submission_date:0
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_search
+#: field:op.assignment.sub.line,submission_date:0
+msgid "Submission Date"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment:eduerp_assignment.view_op_assignment_form
+#: field:op.assignment,assignment_sub_line:0
+msgid "Submissions"
+msgstr ""
+
+#. module: eduerp_assignment
+#: view:op.assignment.sub.line:eduerp_assignment.view_op_assignment_sub_line_form
+msgid "Submit"
+msgstr ""
+
+#. module: eduerp_assignment
+#: selection:op.assignment.sub.line,state:0
+msgid "Submitted"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_summary:0
+#: field:op.assignment.sub.line,message_summary:0
+msgid "Summary"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,message_unread:0
+#: field:op.assignment.sub.line,message_unread:0
+msgid "Unread Messages"
+msgstr ""
+
+#. module: eduerp_assignment
+#: field:op.assignment,website_message_ids:0
+#: field:op.assignment.sub.line,website_message_ids:0
+msgid "Website Messages"
+msgstr ""
+
+#. module: eduerp_assignment
+#: help:op.assignment,website_message_ids:0
+#: help:op.assignment.sub.line,website_message_ids:0
+msgid "Website communication history"
+msgstr ""
+

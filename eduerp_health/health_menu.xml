@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <menuitem id="menu_op_health" name="Health"
+            parent="eduerp_core.menu_op_general_main" sequence="10"
+            action="act_open_op_health_view" groups="eduerp_core.group_op_back_office,eduerp_core.group_op_back_office_admin" />
+    </data>
+</openerp>

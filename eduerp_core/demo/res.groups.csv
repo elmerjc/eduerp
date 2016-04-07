@@ -1,0 +1,5 @@
+id,name,users
+eduerp_core.group_op_student,Student,"Student,Administrator"
+eduerp_core.group_op_faculty,Faculty,"Faculty,Administrator"
+eduerp_core.group_op_back_office,Back Office,"Back Office,Administrator"
+eduerp_core.group_op_back_office_admin,Back Office Admin,"Back Office Admin,Administrator"

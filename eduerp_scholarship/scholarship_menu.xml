@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <menuitem id="menu_op_scholarship_sub" name="Scholarships"
+            parent="eduerp_core.menu_op_school_config_general" sequence="50"
+            action="act_open_op_scholarship_view" groups="eduerp_core.group_op_back_office_admin" />
+        <menuitem id="menu_op_scholarship_type_sub" name="Scholarship Types"
+            parent="eduerp_core.menu_op_school_config_general" sequence="60"
+            action="act_open_op_scholarship_type_view" groups="eduerp_core.group_op_back_office_admin" />
+    </data>
+</openerp>
