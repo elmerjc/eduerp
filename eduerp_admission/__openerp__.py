@@ -13,7 +13,7 @@
     'description': """
         This is gives the feature of admission process.
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_fees'],
     'data': [

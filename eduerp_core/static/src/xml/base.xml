@@ -7,7 +7,7 @@
     </t>
      <t t-jquery="div.oe_login_footer" t-operation="after">
     		<div class="oe_login_footer" style="top:250px">
-	            <a href="http://www.eduerp.org/" target="_blank">Provided by <span>Tech Receptives</span></a>
+	            <a href="http://www.eduerp.org/" target="_blank">Provided by <span>VSEP</span></a>
             </div>
      </t>
 </t>

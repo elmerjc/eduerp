@@ -13,7 +13,7 @@
     'description': """
         This module adds classroom management feature to EduERP_Core.
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core', 'eduerp_facility', 'product'],
     'data': [

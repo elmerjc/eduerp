@@ -787,7 +787,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/eduerp_core/static/src/xml/base.xml:10
 #, python-format
-msgid "Tech Receptives"
+msgid "VSEP"
 msgstr ""
 
 #. module: eduerp_core

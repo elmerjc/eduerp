@@ -14,7 +14,7 @@
         This module provide feature of Attendance Management.
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core'],
     'data': [

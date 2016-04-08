@@ -13,7 +13,7 @@
     'description': """
         This module provide parent management system over OpenERP
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core'],
     'data': [

@@ -29,7 +29,7 @@
             * Hostel
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_achievement', 'eduerp_activity',
                 'eduerp_alumni', 'eduerp_assignment',

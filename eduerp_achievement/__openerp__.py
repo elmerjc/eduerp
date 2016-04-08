@@ -13,7 +13,7 @@
     'description': """
         This module adds the feature of achievement in Openeducat
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core'],
     'data': [

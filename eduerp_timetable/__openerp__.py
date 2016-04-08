@@ -14,7 +14,7 @@
         This module provide feature of Timetable.
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core'],
     'data': [

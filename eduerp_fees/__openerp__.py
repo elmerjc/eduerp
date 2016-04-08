@@ -15,7 +15,7 @@
         other finance operations.
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['eduerp_core', 'account_accountant'],
     'data': [

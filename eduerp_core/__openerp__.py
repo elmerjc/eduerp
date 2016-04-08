@@ -19,7 +19,7 @@
             * Batch
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'VSEP',
     'website': 'http://www.eduerp.org',
     'depends': ['board', 'document', 'hr', 'web', 'website'],
     'data': [
