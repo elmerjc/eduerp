@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Alumni',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Alumni',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module provide alumni management system over OpenERP
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core'],
     'data': [
         'views/alumni_view.xml'

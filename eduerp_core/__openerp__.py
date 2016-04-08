@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Core',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 1,
     'summary': 'Manage Students, Faculties and Education Institute',
     'complexity': "easy",
@@ -20,7 +20,7 @@
 
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['board', 'document', 'hr', 'web', 'website'],
     'data': [
         'report/report_student_bonafide.xml',

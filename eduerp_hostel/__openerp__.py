@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Hostel',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Hostels',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module adds hostel management feature to EduERP_Core.
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core', 'eduerp_facility'],
     'data': [
         'views/room_view.xml',

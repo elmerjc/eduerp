@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Library',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Library',
     'complexity': "easy",
@@ -15,7 +15,7 @@
 
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core'],
     'data': [
         'security/library_security.xml',

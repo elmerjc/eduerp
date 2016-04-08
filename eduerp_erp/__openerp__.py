@@ -6,7 +6,7 @@
 {
     'name': 'EduERP ERP',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Students, Faculties and Education Institute',
     'complexity': "easy",
@@ -30,7 +30,7 @@
 
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_achievement', 'eduerp_activity',
                 'eduerp_alumni', 'eduerp_assignment',
                 'eduerp_attendance', 'eduerp_exam',

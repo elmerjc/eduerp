@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Achievement',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Achievement',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module adds the feature of achievement in Openeducat
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core'],
     'data': [
         'views/achievement_view.xml',

@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Exam',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Exam',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module provide exam management system over OpenERP
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_classroom'],
     'data': [
         'views/exam_attendees_view.xml',

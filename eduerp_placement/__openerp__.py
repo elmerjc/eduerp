@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Placement',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Placement',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module provide placement management system over OpenERP
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core'],
     'data': [
         'views/placement_view.xml',

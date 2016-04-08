@@ -6,7 +6,7 @@
 {
     'name': "EduERP Admission",
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     'sequence': 3,
     'summary': "Manage Admissions""",
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This is gives the feature of admission process.
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_fees'],
     'data': [
         'views/admission_register_view.xml',

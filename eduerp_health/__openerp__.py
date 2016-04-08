@@ -6,7 +6,7 @@
 {
     'name': 'EduERP Health',
     'version': '2.4.0',
-    'category': 'Openerp Education',
+    'category': 'Education ERP System',
     "sequence": 3,
     'summary': 'Manage Health',
     'complexity': "easy",
@@ -14,7 +14,7 @@
         This module adds the feature of health in Openeducat
     """,
     'author': 'VSEP',
-    'website': 'http://www.eduerp.org',
+    'website': '',
     'depends': ['eduerp_core'],
     'data': [
         'views/health_view.xml',
