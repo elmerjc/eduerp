@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
-    <data noupdate="1">
+    <data noupdate="0">
         <record id="op_faculty_1" model="op.faculty">
             <field name="photo" type="base64" file="eduerp_core/static/img/faculty_1.jpg" />
         </record>

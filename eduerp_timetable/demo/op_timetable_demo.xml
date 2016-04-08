@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
-    <data noupdate="1">
+    <data noupdate="0">
         <record id="op_timetable_1" model="op.timetable">
             <field name="period_id" ref="op_period_1"/>
             <field name="faculty_id" ref="eduerp_core.op_faculty_1"/>

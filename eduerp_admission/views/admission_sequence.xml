@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
-    <data noupdate="1">
+    <data noupdate="0">
         <!-- Sequences for op.admission -->
         <record id="seq_op_admission" model="ir.sequence">
             <field name="name">Admission</field>

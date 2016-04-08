@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
-    <data noupdate="1">
+    <data noupdate="0">
         <record id="state_in_01" model="res.country.state">
             <field name="name">Gujarat</field>
             <field name="code">GJ</field>

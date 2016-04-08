@@ -40,7 +40,7 @@
         'views/faculty_view.xml',
         'views/res_company_view.xml',
         'views/eduerp_template.xml',
-        'views/homepage_template.xml',
+#        'views/homepage_template.xml',
         'views/website_assets.xml',
         'dashboard/faculty_dashboard_view.xml',
         'dashboard/student_dashboard_view.xml',
@@ -50,7 +50,7 @@
     ],
     'demo': [
         'demo/base_demo.xml',
-        'demo/website_demo.xml',
+#        'demo/website_demo.xml',
         'demo/op.subject.csv',
         'demo/op.course.csv',
         'demo/op.batch.csv',
