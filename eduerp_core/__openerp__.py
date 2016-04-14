@@ -49,7 +49,7 @@
         'menu/student_menu.xml'
     ],
     'demo': [
-        'demo/base_demo.xml',
+#        'demo/base_demo.xml',
 #        'demo/website_demo.xml',
         'demo/op.subject.csv',
         'demo/op.course.csv',
