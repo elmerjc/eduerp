@@ -1,7 +1,7 @@
 # Project - *EduERP* for Odoo 9
 
 ** EduERP** is is an ERP system for educational institute built on top of Odoo
-This project is cloned from OpenEduCat (a fully open source project) and is customised/modified to 
+This project is cloned from OpenEduCat (a fully open source project) and is customised/modified to fit our needs.
 
 Time spent: **??** hours spent in total
 
